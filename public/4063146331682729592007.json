@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830198421320",
+    "project_id": "toca-boca-kitchen-ideas-3f35d",
+    "storage_bucket": "toca-boca-kitchen-ideas-3f35d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830198421320:android:de39320866408bd11d457d",
+        "android_client_info": {
+          "package_name": "com.toca.boca.kitchen.ideas.naufalharitsstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830198421320-til4skj0oufu8paquannm47sr3sic2tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCugvdrR7eyv9cSAo_1azFZskX-FsWw--4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830198421320-til4skj0oufu8paquannm47sr3sic2tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
